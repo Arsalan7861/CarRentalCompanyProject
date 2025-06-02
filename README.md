@@ -9,6 +9,12 @@ This project is a web application for managing car rentals. It allows users to b
 - Booking management
 - Admin dashboard for managing cars and rentals
 
+### Admin Page:
+![Admin Page](https://github.com/Arsalan7861/CarRentalCompanyProject/blob/master/screenshots/admin.jpg?raw=true)
+### Customer Page:
+![Customer Page](https://github.com/Arsalan7861/CarRentalCompanyProject/blob/master/screenshots/customer.jpg?raw=true)
+
+
 ## Installation
 To install the project, clone the repository and install dependencies:
 
