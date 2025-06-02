@@ -21,3 +21,9 @@ To install the project, clone the repository and install dependencies:
 ```bash
 git clone https://github.com/Arsalan7861/CarRentalCompanyProject.git
 cd CarRentalCompanyProject
+```
+## Dependencies :
+- Target Framework -> .NET 8.0
+- Database -> MSSQL -> SQL Server Managment Studio 20
+- Create a database by the name of 'CarCompany', then update-database from nuget package console
+- Write your server name in connection string located in Program.cs file inside the project
